@@ -5,8 +5,8 @@ dockerfile of shadowsocks-libev with simple-obfs and privoxy
 
 ### Build
 ```
-git clone https://github.com/ZRStea/docker-shadowsocks-libev-obfs-privoxy.git
-docker build ./docker-shadowsocks-libev-obfs-privoxy -t docker-shadowsocks-libev-obfs-privoxy
+git clone git://github.com/Rick7C2/docker-shadowsocks-libev-obfs-privoxy.git
+docker build -t docker-shadowsocks-libev-obfs-privoxy ./docker-shadowsocks-libev-obfs-privoxy
 ```
 
 ### example:
