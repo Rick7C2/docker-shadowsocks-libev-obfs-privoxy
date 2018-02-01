@@ -6,6 +6,7 @@ RUN set -ex && \
                                 autoconf \
                                 build-base \
                                 libev-dev \
+                                c-ares-dev \
                                 libtool \
                                 linux-headers \
                                 udns-dev \
